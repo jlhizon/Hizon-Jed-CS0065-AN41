@@ -1,4 +1,4 @@
-# Asynchronous Activity 1: Student Early Warning Tool Using KNIME 
+# Machine Problem 1: Student Early Warning Tool Using KNIME 
  
 This repository contains the required output for Machine Problem 1
 1. The project uses KNIME to predict student risk status from academic performance data. 
