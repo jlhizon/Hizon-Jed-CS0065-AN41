@@ -1,11 +1,3 @@
-"""
-CS0065 - TA3: Case-Based Reasoning (CBR)
-Case Study 1: Disaster Response Decision Support System (simple version)
-
-CBR cycle: Retrieve -> Reuse (adapt) -> Retain
-Case values are simplified, illustrative figures, not official statistics.
-"""
-
 import math
 
 case_base = [
