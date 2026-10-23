@@ -43,7 +43,3 @@ Asks yes/no questions about the problem, then finds the most similar past case a
 ```bash
 python TA4B_Coritana_Hizon.py
 ```
-
-## Requirements
-
-Python 3, no external libraries.
