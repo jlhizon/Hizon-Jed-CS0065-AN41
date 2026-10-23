@@ -44,6 +44,3 @@ Most similar case found (similarity: 100%)
 Suggested solution: Clean the fan and vents, then use a cooling pad.
 Case retained. Case base now has 5 cases.
 ```
-
-
-Python 3, no external libraries.
